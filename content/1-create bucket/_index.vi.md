@@ -22,7 +22,7 @@ pre : " <b> 1. </b> "
 
 ![Createbucket](/images/1.Createbucket/1.31.png)
 
-5.	Trong 1 giao diện Create Bucket, chúng ta sẽ cấu hình cho bucket:
+5.	Trong giao diện Create Bucket, chúng ta sẽ cấu hình cho bucket:
 - **Bucket name**: Đặt tên cho bucket name, tên bucket này là duy nhất trên toàn thế giới 
 - **Aws region**: lựa chọn region theo nhu cầu của bạn, region càng gần thì độ trễ càng thấp, chi phí có thể cao hơn. Ví dụ nếu công ty bạn ở Việt Nam thì chúng ta chọn region ở Singapore là gần nhất nhưng có thể chi phí cao hơn region ở Mỹ.
 
